@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19e53a81bfc8b41c48967f2a15ad4eac, type: 3}
+  m_Name: AppboyConfig
+  m_EditorClassIdentifier: 
+  iOSAutomatesIntegration: 0
+  androidAutomatesIntegration: 1
+  ApiKey: 
+  iOSEndpoint: 
+  iOSLogLevel: 
+  androidApiKey: 8951d11f-393a-4247-9899-418940df3319
+  androidEndpoint: sondheim.braze.com
+  androidLogLevel: 0
+  androidDeviceObjectWhitelist: 
+  androidDeviceObjectWhitelistEnabled: 0
+  androidSessionTimeoutSeconds: 
+  iOSIntegratesPush: 0
+  iOSDisableAutomaticPushRegistration: 0
+  iOSDisableProvisionalAuth: 0
+  iOSDisableAutomaticPushCapability: 0
+  iOSPushIsBackgroundEnabled: 0
+  iOSPushReceivedGameObjectName: 
+  iOSPushReceivedCallbackMethodName: 
+  iOSPushOpenedGameObjectName: 
+  iOSPushOpenedCallbackMethodName: 
+  androidFirebaseCloudMessagingRegistrationEnabled: 0
+  androidFirebaseCloudMessagingSenderId: 
+  androidHandlePushDeepLinksAutomatically: 1
+  androidAdmRegistrationEnabled: 0
+  androidPushReceivedGameObjectName: 
+  androidPushReceivedCallbackMethodName: 
+  androidPushOpenedGameObjectName: 
+  androidPushOpenedCallbackMethodName: 
+  androidPushDeletedGameObjectName: 
+  androidPushDeletedCallbackMethodName: 
+  androidPushNotificationHtmlRenderingEnabled: 0
+  androidPushDefaultNotificationAccentColor: 
+  androidPushDefaultNotificationChannelName: 
+  androidPushDefaultNotificationChannelDescription: 
+  androidPushSmallNotificationIcon: 
+  androidPushLargeNotificationIcon: 
+  androidDelaySendingPushIntents: 0
+  iOSInAppMessageGameObjectName: 
+  iOSInAppMessageCallbackMethodName: 
+  iOSDisplayInAppMessages: 0
+  androidInAppMessageListenerGameObjectName: 
+  androidInAppMessageListenerCallbackMethodName: 
+  androidTriggerActionMinimumTimeSeconds: 
+  androidDisplayInAppMessagesAutomatically: 1
+  iOSFeedGameObjectName: 
+  iOSFeedCallbackMethodName: 
+  iOSContentCardsGameObjectName: 
+  iOSContentCardsCallbackMethodName: 
+  androidContentCardsUpdatedListenerGameObjectName: 
+  androidContentCardsUpdatedListenerCallbackMethodName: 
+  androidContentCardsUnreadVisualIndicatorEnabled: 1
+  androidLocationCollectionEnabled: 0
+  androidGeofencesEnabled: 0
+  androidAutomaticGeofenceRequestsEnabled: 1
